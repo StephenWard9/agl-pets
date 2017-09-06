@@ -1,0 +1,8 @@
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\ConsoleApplicationTestProject.dll
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\ConsoleApplicationTestProject.pdb
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\ConsoleApplication1.exe
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\ConsoleApplication1.pdb
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\obj\Debug\ConsoleApplicationTestProject.csprojResolveAssemblyReference.cache
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\obj\Debug\ConsoleApplicationTestProject.dll
+C:\Users\stward\documents\visual studio 2015\Projects\AGL\ConsoleApplicationTestProject\obj\Debug\ConsoleApplicationTestProject.pdb
